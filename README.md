@@ -25,3 +25,7 @@
 <p>
   Além da tecnologia também jogo volêi 🏐, acredito que praticar esse esporte ajuda ter foco, agilidade, pensamento rapido e dicoplina.
 </p>
+
+<p align="center">
+ <img  alingn="center" src="https://github.com/user-attachments/assets/f262fe5e-98a8-459b-a77a-a481f397c8ca" width=736px height=100px alt="volei" />
+ </p>
