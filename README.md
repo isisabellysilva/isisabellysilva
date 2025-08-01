@@ -23,7 +23,7 @@
 
 <h2> 💡 Curiosidade </h2>
 <p>
-  Além da tecnologia também jogo volêi 🏐, acredito que praticar esse esporte ajuda ter foco, agilidade, pensamento rapido e dicoplina.
+  Além da tecnologia também jogo volêi 🏐, acredito que praticar esse esporte ajuda ter foco, agilidade, pensamento rapido e diciplina.
 </p>
 
 <p align="center">
